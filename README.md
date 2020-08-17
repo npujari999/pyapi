@@ -1,6 +1,7 @@
 # pyapi
 
 Learning Python API. 
+Learning verison control projects with git
 
 ## Getting Started
 
